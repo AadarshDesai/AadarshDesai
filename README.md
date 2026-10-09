@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aadarsh Desai</h1>
-<h3 align="center">A passionate full stack developer from India, currently based in Canada</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 - 🔭 I’m currently working on **building a personal project using the MERN stack to improve my skills and understand the full development cycle.**
 
